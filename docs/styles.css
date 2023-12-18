@@ -1,0 +1,221 @@
+
+
+nav ul{
+    list-style-type: none;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   padding-inline-start: 0;
+    
+    
+}
+nav ul li {
+    top: 31px;
+    left: 1610px;
+    width: 224px;
+    height: 50px;
+    justify-content: left;
+}
+
+body{
+    margin: 10;
+    padding: 10
+    ;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.opening{
+    margin-left: 40px;
+    margin-bottom: 100px;
+}
+
+h1{
+    font-family: amandine, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-100) var(--unnamed-font-size-50)/var(--unnamed-line-spacing-62) var(--unnamed-font-family-geist);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-312509);
+text-align: left;
+font: normal normal 100 50px/62px Geist;
+letter-spacing: 0px;
+color: #312509;
+opacity: 1;
+text-align: center;
+}
+
+h3{
+    font: normal normal 100 30px/40px Geist;
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+}
+
+p{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-100) var(--unnamed-font-size-44)/var(--unnamed-line-spacing-54) var(--unnamed-font-family-geist);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 100 24px/30px Geist;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.skills{
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    background: var(--unnamed-color-357266) 0% 0% no-repeat padding-box;
+    background: #357266 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-bottom: 0;
+}
+
+.skill-header{
+    font-family: amandine, sans-serif;
+    text-align: center;
+    color: #FAE0C7;
+    padding: 0;
+    margin-bottom: 0;
+    background: var(--unnamed-color-357266) 0% 0% no-repeat padding-box;
+    background: #357266 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.about{
+    font-family: amandine, sans-serif;
+    margin-top: 40px;
+}
+
+.about-me{
+    display: flex;
+}
+
+.skills-1{
+    top: 2115px;
+    left: 20px;
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+    border: 1px solid var(--unnamed-color-707070);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 5px 10px 10px #00000029;
+    border: 1px solid #707070;
+    border-radius: 40px;
+    opacity: 1;
+}
+
+.skills-2{
+    top: 2115px;
+    left: 350px;
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+    border: 1px solid var(--unnamed-color-707070);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 5px 10px 10px #00000029;
+    border: 1px solid #707070;
+    border-radius: 40px;
+    opacity: 1;
+}
+
+.skills-3{
+    top: 2115px;
+    left: 680px;
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+    border: 1px solid var(--unnamed-color-707070);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 5px 10px 10px #00000029;
+    border: 1px solid #707070;
+    border-radius: 40px;
+    opacity: 1;
+}
+
+ul li{
+    list-style: none;
+    padding: 5px;
+    font: var(--unnamed-font-style-normal) normal 300 35px/44px Geist Variable;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-312509);
+    text-align: center;
+    font: normal normal 300 20px/44px Geist Variable;
+    letter-spacing: 0px;
+    color: #312509;
+    opacity: 1;
+}
+
+.project-header{
+    font-family: amandine, sans-serif;
+    text-align: center;
+    color: #FAE0C7;
+    margin-top: 0;
+}
+
+.projects{
+    background: transparent linear-gradient(180deg, var(--unnamed-color-357266) 0%, var(--unnamed-color-a3bbad) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #357266 0%, #A3BBAD 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+
+.project-line{
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+}
+
+.project-1{
+    margin: 30px;
+}
+
+.project-2{
+    margin: 30px;
+}
+
+
+.project-3{
+    margin: 30px;
+}
+
+.proj-description{
+    border: 1px solid var(--unnamed-color-707070);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 5px 10px 10px #00000029;
+    border-radius: 40px;
+    opacity: 1;
+    text-align: center;
+    font-size: larger;
+}
+
+.footer{
+    background: var(--unnamed-color-a3bbad) 0% 0% no-repeat padding-box;
+    background: #A3BBAD 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.social-links{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    justify-content: left;
+    display: flex;
+    gap: 10px;
+}
+
+.copyright{
+    margin: 0;
+}
